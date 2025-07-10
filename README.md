@@ -1,0 +1,2 @@
+The project idea was to chat with the user to learn about their interests and ask them a schedule and send them creative push notifications about upcoming events based on their interests and send them booking links if there are seats available.![IMG_8985C420A6B2-1](https://github.com/user-attachments/assets/467c02da-27ff-489a-9211-882ef07a2e96)
+<img width="1351" height="863" alt="Screenshot 2025-07-10 at 11 27 10 AM" src="https://github.com/user-attachments/assets/78ca9732-f872-4294-abbb-c024a72b4ef8" />
